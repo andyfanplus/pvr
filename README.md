@@ -5,3 +5,4 @@ C/S based parallel rendering demo.
 2. install vtk-8.2.0 (compiled with mpi surpport);
 3. install IceT-2.2.
 # Screenshot
+![image](https://github.com/andyfanplus/pvr/blob/main/screenshot.png)
